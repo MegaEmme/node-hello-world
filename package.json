@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "1. Creiamo la prima applicazione con NodeJs e inizializziamola con npm init",
+  "description": "node-hello-world",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
